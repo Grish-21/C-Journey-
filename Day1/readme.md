@@ -20,6 +20,6 @@ Palindrome: no
 
 Rules:
 
-Use only <iostream>. Do not convert to a string.
+Use only `<iostream>`. Do not convert to a string.
 Use a while loop with % and /.
 Put the logic in functions, e.g. int digitSum(int n) and int reverseNumber(int n).
